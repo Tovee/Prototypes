@@ -226,35 +226,35 @@
  <Reference Include="UnityEngine.VR">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="ConditionalExpression">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+ </Reference>
+ <Reference Include="ConditionalExpressionEditor">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditorResources">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
+ </Reference>
+ <Reference Include="Photon3Unity3D">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMaker">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
+ </Reference>
+ <Reference Include="websocket-sharp">
+ <HintPath>/Users/luketovee/dev/Prototypes/DiceRoller2/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
- </Reference>
- <Reference Include="websocket-sharp">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
- </Reference>
- <Reference Include="Photon3Unity3D">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/Plugins/Photon3Unity3D.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditorResources">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
- </Reference>
- <Reference Include="ConditionalExpressionEditor">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
- </Reference>
- <Reference Include="ConditionalExpression">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
- </Reference>
- <Reference Include="PlayMaker">
- <HintPath>/Users/luketovee/Documents/UnityProjects/Co-op TD/DiceRoller2/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
